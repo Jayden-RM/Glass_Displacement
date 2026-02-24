@@ -1,6 +1,6 @@
 # Environment Setup (Windows)
 
-This guide walks through installing Python and configuring the development environment for Tandem PV software projects.
+This guide walks through installing Python and configuring the development environment to run the laser system.
 
 ---
 

@@ -6,7 +6,7 @@ Control and analysis software for the Tandem PV Glass Displacement measurement s
 ![GUI](https://img.shields.io/badge/GUI-PyQt5-green.svg)  
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)  
 ![License](https://img.shields.io/badge/license-MIT-purple.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/jaydenig/Glass_Displacement/main)
+
 
 ---
 

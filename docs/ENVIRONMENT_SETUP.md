@@ -96,7 +96,7 @@ Download and install the following:
 
 ## 6. Request Repository Access
 
-Send a Slack message to the repository maintainer (currently Sean) requesting access to the desired repository.
+Send a Slack message to the repository maintainer (currently Jayden: GitHub username: jaydenig) requesting access to the desired repository.
 
 ---
 

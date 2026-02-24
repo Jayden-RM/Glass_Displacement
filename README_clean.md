@@ -50,7 +50,7 @@ Glass Displacement provides automated XY stage motion, laser displacement sensin
 
 ## GUI Preview
 
-![GUI Screenshot](docs/images/gui.png)
+![GUI Screenshot](docs/images/GUI.png)
 
 ---
 

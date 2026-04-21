@@ -1,3 +1,9 @@
+#this code allows for the user to test how reliable the system is between scans.
+#procedure: Scan the same module two times using the same settings, than attach the path of the csv file for the respectives scans
+#expected output: The RMS should be about 10x the point noise (how much the measurement system varies at a certain point).
+
+
+
 import numpy as np
 import pandas as pd
 from pathlib import Path

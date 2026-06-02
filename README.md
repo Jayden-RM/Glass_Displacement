@@ -247,7 +247,7 @@ Important:
 ## Authors
 
 - Sean P. Dunfield — Original implementation  
-- Jayden — Major modifications, stability improvements, and UI enhancements  
+- Jayden Roy-Moder — Major modifications, stability improvements, and UI enhancements  
 
 ---
 
